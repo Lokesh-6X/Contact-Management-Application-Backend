@@ -1,2 +1,12 @@
-/node_modules
+# Backend
+node_modules/
 .env
+
+# Frontend
+client/node_modules/
+client/build/
+client/.env
+
+# OS / Editor
+.DS_Store
+.vscode/
